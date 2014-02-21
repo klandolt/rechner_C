@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rechner", "Rechner\Rechner.vcxproj", "{20C2C4EE-BD40-413B-96A2-F191B0426DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Final|Win32 = Final|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Debug|Win32.Build.0 = Debug|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Final|Win32.ActiveCfg = Final|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Final|Win32.Build.0 = Final|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Final|Win32.Deploy.0 = Final|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Release|Win32.ActiveCfg = Release|Win32
+		{20C2C4EE-BD40-413B-96A2-F191B0426DA1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
